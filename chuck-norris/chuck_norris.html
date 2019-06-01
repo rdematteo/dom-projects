@@ -1,0 +1,45 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./chuck_norris.css" />
+  </head>
+  <body>
+      
+    <div class="container">
+      <h1>Select a category from the drop-down list</h1>
+
+      <select id="dropdown">
+        <option value="None" selected>None</option>
+        <option value="explicit">Explicit</option>
+        <option value="dev">Dev</option>
+        <option value="movie">Movie</option>
+        <option value="food">Food</option>
+        <option value="celebrity">Celebrity</option>
+        <option value="science">Science</option>
+        <option value="sport">Sport</option>
+        <option value="political">Political</option>
+        <option value="religion">Religion</option>
+        <option value="animal">Animal</option>
+        <option value="history">History</option>
+        <option value="music">Music</option>
+        <option value="travel">Travel</option>
+        <option value="career">Career</option>
+        <option value="money">Money</option>
+        <option value="fashion">Fashion</option>
+      </select>
+  
+      <div class="picture"></div>
+
+      <div id="loader" class="loader"></div>
+      
+      <h2></h2>
+    </div>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="./chuck_norris.js"></script>
+
+  </body>
+</html>
