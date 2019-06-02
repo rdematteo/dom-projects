@@ -1,7 +1,9 @@
 # Coder Academy
-## Browser Application Challenge 
-### May 23, 2019
+## May-June, 2019
+## PROJECT 1 - DOM Browser Application Challenge
+## PROJECT 2 - Chuck Norris Jokes API
 
+## PROJECT 1 - DOM Browser Application Challenge
 Student were asked to complete the following task;  
 
 Create a terminal application containing:  
@@ -30,3 +32,5 @@ Skills learned;
 - creating html, css
 - Javascript functions
 - getElementById, querySelector, addEventListener
+
+## PROJECT 2 - CHUCK NORRIS JOKES API
